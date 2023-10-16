@@ -12,7 +12,7 @@
 
 Decorations are (A)PNG images that are square and 1.2x the size of your avatar.
 
-There is no resolution limit (due to being unable to resize APNGs) but please be reasonable (under 1024x1024) and there is a maximum file size of 1MB.
+Decorations have a maximum resolution of 768x768, and the server will resize oversized submissions to this size.
 
 Animated decorations will be split out into two files, A PNG of the first frame and the other being the full file.
 
