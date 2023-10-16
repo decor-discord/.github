@@ -11,12 +11,19 @@
 **Decoration Specs**
 
 Decorations are (A)PNG images that are square and 1.2x the size of your avatar.
+
 There is no resolution limit (due to being unable to resize APNGs) but please be reasonable (under 1024x1024) and there is a maximum file size of 1MB.
+
 Animated decorations will be split out into two files, A PNG of the first frame and the other being the full file.
 
 **Process**
 
 You can create your decoration using any client mod with a Decor plugin capable of creating decorations.
+
 After creating it, you won't be able to use it until it is manually reviewed by a reviewer.
+
 Please do not harass reviewers to review your decoration.
+
 After your decoration is reviewed, if approved, it will be selected as your active decoration. Otherwise, it will be deleted.
+
+Interested in creating a preset of decorations for anyone to use? Contact fiery (@swiftui) in Decor's Discord server.
