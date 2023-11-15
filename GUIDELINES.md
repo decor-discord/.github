@@ -3,7 +3,7 @@
 1. No pornography, gore, etc (No NSFW). **Violating this rule will result in you being banned from creating new decorations.**
 2. No excessive flashing.
 3. No political content.
-4. **No re-uploaded collectible store decorations.**
+4. **No re-uploaded Discord decorations.**
 4. **Must be decorative, not just a random picture.**
 5. The Decor team reserves the right to deny decorations for any reason.
 6. The Decor team also reserves the right to prevent you from creating decorations for violating the aforementioned rules.
