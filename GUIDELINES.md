@@ -39,4 +39,6 @@ Please do not harass reviewers to review your decoration.
 
 After your decoration is reviewed, if approved, it will be selected as your active decoration. Otherwise, it will be deleted.
 
-Interested in creating a preset of decorations for anyone to use? Contact fiery (@swiftui) in Decor's Discord server.
+Interested in creating a preset of decorations for anyone to use? Check the `#faq` channel in the [Discord Server][invite].
+
+[invite]: https://discord.gg/dXp2SdxDcP
