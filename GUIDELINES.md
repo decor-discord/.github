@@ -23,7 +23,7 @@
 
 Decorations are (A)PNG images that are square and 1.2x the size of your avatar. For example, a 640x640 circle in a 768x768 square would be a accurate decoration base.
 
-**[Get the template](assets/template.png)**
+**[Get the template](https://raw.githubusercontent.com/decor-discord/.github/main/assets/template.png)**
 
 Decorations have a maximum resolution of 768x768, and the server will resize oversized submissions to this size.
 
