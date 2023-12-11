@@ -16,10 +16,12 @@
 ### Examples
 #### A good decoration
 ![Good example](assets/examples/good.png)
+
 This decoration would pass review as it is decorative and does not fully obscure the avatar.
 
 #### A bad decoration
 ![Bad example](assets/examples/bad.png)
+
 This decoration would not pass review as it fully obscures the avatar and is not decorative.
 
 ## Decoration Specification
