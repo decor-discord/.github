@@ -13,6 +13,15 @@
 7. The Decor team reserves the right to deny decorations for any reason.
 8. The Decor team also reserves the right to prevent you from creating decorations for violating the aforementioned rules.
 
+### Examples
+#### A good decoration
+![Good example](assets/examples/good.png)
+This decoration would pass review as it is decorative and does not fully obscure the avatar.
+
+#### A bad decoration
+![Bad example](assets/examples/bad.png)
+This decoration would not pass review as it fully obscures the avatar and is not decorative.
+
 ## Decoration Specification
 
 Decorations are (A)PNG images that are square and 1.2x the size of your avatar.
