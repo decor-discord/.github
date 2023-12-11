@@ -14,15 +14,10 @@
 8. The Decor team also reserves the right to prevent you from creating decorations for violating the aforementioned rules.
 
 ### Examples
-#### A good decoration
-![Good example](assets/examples/good.png)
-
-This decoration would pass review as it is decorative and does not fully obscure the avatar.
-
-#### A bad decoration
-![Bad example](assets/examples/bad.png)
-
-This decoration would not pass review as it fully obscures the avatar and is not decorative.
+| Good decoration | Bad decoration |
+| --------------- | -------------- |
+| ![Good example](assets/examples/good.png) | ![Bad example](assets/examples/bad.png) |
+| This decoration would pass review as it is decorative and does not fully obscure the avatar. | This decoration would not pass review as it fully obscures the avatar and is not decorative. |
 
 ## Decoration Specification
 
