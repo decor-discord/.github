@@ -23,6 +23,8 @@
 
 Decorations are (A)PNG images that are square and 1.2x the size of your avatar. For example, a 640x640 circle in a 768x768 square would be a accurate decoration base.
 
+**[Get the template](assets/template.png)**
+
 Decorations have a maximum resolution of 768x768, and the server will resize oversized submissions to this size.
 
 Animated decorations will be split out into two files, A PNG of the first frame and the other being the full file (minus the first frame in the case of a APNG with a skipped first frame).
