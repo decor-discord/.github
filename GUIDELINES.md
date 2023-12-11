@@ -25,7 +25,7 @@ Decorations are (A)PNG images that are square and 1.2x the size of your avatar. 
 
 **[Get the template](https://raw.githubusercontent.com/decor-discord/.github/main/assets/template.png)**
 
-Decorations have a maximum resolution of 768x768, and the server will resize oversized submissions to this size.
+Decorations will be resized to 288x288 if they are bigger than 288x288.
 
 Animated decorations will be split out into two files, A PNG of the first frame and the other being the full file (minus the first frame in the case of a APNG with a skipped first frame).
 
